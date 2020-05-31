@@ -5,7 +5,7 @@
     "name": "Portable Autodoc",
     "authors": [ "Fris0uman" ],
     "description": "Autodocs can be picked up an re-installed somewhere else.",
-    "category": "balance",
+    "category": "rebalance",
     "dependencies": [ "dda" ]
   }
 ]
