@@ -1,4 +1,4 @@
-# Easy-CBM-Trinity
+# Easy CBM Mods
 CDDA mods to make CBM easy again
 
 - **Manual Install** allows installation of CBM without autodoc.  Only works for vanilla CBMs.
