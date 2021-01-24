@@ -1,8 +1,9 @@
 # Easy CBM Mods
 CDDA mods to make CBM easy again
 
-/!\ `Safe Autodoc` and `Portabe Autodoc` are not compatible, actually any mod that edits the autodoc (like `Aftershock`) will conflict with those mods. /!\
--> If you want both *safe* and *portable* autodocs use `Safe Portable Autodoc`
+/!\\ `Safe Autodoc` and `Portabe Autodoc` are **not compatible**, actually any mod that edits the autodoc (like `Aftershock`) will conflict with those mods. /!\\
+
+If you want both *safe* and *portable* autodocs use `Safe Portable Autodoc`
 
 - **Manual Install** allows installation of CBM without autodoc.  Only works for vanilla CBMs.
 - **Safe Autodoc** make surgery with autodoc succeed every time.  Not compatible with **Portable Autodoc** ( or `Aftershock`)
