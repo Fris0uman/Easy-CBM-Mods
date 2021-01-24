@@ -4,8 +4,8 @@
     "ident": "safe_portable_autodoc",
     "name": "Safe Portable Autodoc",
     "authors": [ "Fris0uman" ],
-    "description": "A patch to make the Portable Autodoc mkII safe.",
+    "description": "Make autodoc 100% safe AND portable.",
     "category": "rebalance",
-    "dependencies": [ "dda", "portable_autodoc" ]
+    "dependencies": [ "dda" ]
   }
 ]
