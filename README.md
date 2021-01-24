@@ -1,4 +1,4 @@
-# Easy-CBM-Trinity
+# Easy CBM Mods
 CDDA mods to make CBM easy again
 
 /!\ `Safe Autodoc` and `Portabe Autodoc` are not compatible, actually any mod that edits the autodoc (like `Aftershock`) will conflict with those mods. /!\
